@@ -1,0 +1,108 @@
+{
+    "name": "flare",
+    "children":
+    [
+        {
+            "name": "s1",
+            "children":
+            [
+                {
+                    "name":"s1e1",
+                    "sort": 1,
+                    "value": 3317
+                },
+                {
+                    "name":"s1e2",
+                    "sort": 2,
+                    "value": 2680
+                },
+                {
+                    "name":"s1e3",
+                    "sort": 3,
+                    "value": 2870
+                },
+                {
+                    "name":"s1e4",
+                    "sort": 4,
+                    "value": 3325
+                },
+                {
+                    "name":"s1e5",
+                    "sort": 5,
+                    "value": 3307
+                },
+                {
+                    "name":"s1e6",
+                    "sort": 6,
+                    "value": 2854
+                },
+                {
+                    "name":"s1e7",
+                    "sort": 7,
+                    "value": 3261
+                },
+                {
+                    "name":"s1e8",
+                    "sort": 8,
+                    "value": 3408
+                },
+                {
+                    "name":"s1e9",
+                    "sort": 9,
+                    "value": 2489
+                },
+                {
+                    "name":"s1e10",
+                    "sort": 10,
+                    "value": 2756
+                }
+            ]
+        },
+        {
+            "name": "s2",
+            "children":
+            [
+                {
+                    "name":"s2e1",
+                    "sort": 1,
+                    "value": 2811
+                },
+                {
+                    "name":"s2e2",
+                    "sort": 2,
+                    "value": 2539
+                },
+                {
+                    "name":"s2e3",
+                    "sort": 3,
+                    "value": 3005
+                },
+                {
+                    "name":"s2e4",
+                    "sort": 4,
+                    "value": 3185
+                },
+                {
+                    "name":"s2e5",
+                    "sort": 5,
+                    "value": 3296
+                },
+                {
+                    "name":"s2e6",
+                    "sort": 6,
+                    "value": 2782
+                },
+                {
+                    "name":"s2e7",
+                    "sort": 7,
+                    "value": 2628
+                },
+                {
+                    "name":"s2e8",
+                    "sort": 8,
+                    "value": 2477
+                }
+            ]
+        }
+    ]
+}
